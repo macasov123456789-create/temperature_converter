@@ -148,13 +148,7 @@ python main.py
 ## Тестирование
 
 ```bash
-pytest
-```
-
-Для более подробного вывода:
-
-```bash
-pytest -v
+python -m pytest
 ```
 
 ## Используемые технологии
